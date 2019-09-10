@@ -456,7 +456,7 @@ public class SortByRevfinal {
 
 	public static void main(String[] args) {
 		SortByRevfinal test = new SortByRevfinal();
-        test.readData("all_strains.txt");
+        test.readData("gene_order.txt");
 		test.createAdjacency();
 		//test.printConsensus();
 		test.reorder(false);
