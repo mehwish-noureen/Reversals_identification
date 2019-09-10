@@ -15,7 +15,7 @@ Run
 
 Create orthologous gene cluster table
 
-Run the script runCreateOrthologousTable.py from the following link (https://github.com/tipputa/Circular-genome-visualizer)to create the gene cluster table.
+Run the script runCreateOrthologousTable.py from the following link (https://github.com/tipputa/Circular-genome-visualizer) to create the gene cluster table.
 
 Remove the non-conserved gene clusters
 
