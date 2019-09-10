@@ -1,6 +1,7 @@
 # Reversals_identification
 
 About
+
 Identification of reversals (inversions) comparing multiple genomes
 Input: Tab-delimited text file (.txt) This file should contain the gene order data (from gene 1 to gene 'n') for all the genomes
 
