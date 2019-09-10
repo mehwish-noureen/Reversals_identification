@@ -6,7 +6,8 @@ Identification of reversals (inversions) comparing multiple genomes
 Input: Tab-delimited text file (.txt) This file should contain the gene order data (from gene 1 to gene 'n') for all the genomes
 
 Requirements
-Java python 2.7
+Java 
+python 2.7
 
 Run
 
