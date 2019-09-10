@@ -8,6 +8,7 @@ Input: Tab-delimited text file (.txt) This file should contain the gene order da
 Requirements
 
 Java 
+
 python 2.7
 
 Run
